@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning game patterns and game design in c++.
 - 📫 You can reach me by:
       *email: albertfay1121@gmail.com
-      *LinkedIn: www.linkedin.com/in/albert-fay-5134451a9
+      *LinkedIn: www.linkedin.com/in/albert-fay
 
